@@ -39,7 +39,6 @@ for epoch in range(10):
         loss.backward()
         optimizer.step()
 
-# Evaluate the model on the validation set
 val_loader = torch.utils.data.DataLoader(val_dataset, batch_size=32, shuffle=False)
 correct = 0
 total = 0
