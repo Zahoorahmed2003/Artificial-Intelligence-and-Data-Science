@@ -10,9 +10,7 @@
 
 <!-- If your changes include visual elements, provide screenshots here -->
 
-## Related Issues
 
-<!-- Mention any issues or discussions related to this pull request -->
 
 ## Checklist
 
