@@ -1,4 +1,5 @@
 # Deep Learning Learning Resources
+# Deep Learning Learning Resources
 
 Welcome to the Deep Learning Learning Resources section! Here, you'll find a curated list of resources to help you get started with deep learning, improve your skills, and stay updated with the latest developments in the field. Whether you're a beginner or an experienced practitioner, these resources are designed to support your journey into the world of deep learning.
 
