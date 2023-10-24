@@ -24,9 +24,6 @@ Our Learning Resources directory is a curated list of textbooks, online courses,
 
 In the Projects folder, you'll discover a collection of hands-on projects that cover various AI and Data Science domains. These projects are designed to help you apply your knowledge and gain practical experience. Feel free to contribute your own projects or suggest new ones!
 
-## Extras
-
-In the extras folder, you can contribute anything extra related to Artificial Intelligence and Data Science.
 
 ## Contribution Guidelines
 
