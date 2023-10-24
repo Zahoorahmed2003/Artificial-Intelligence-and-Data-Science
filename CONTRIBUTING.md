@@ -45,12 +45,7 @@ Please follow these guidelines when contributing to this repository:
 - Follow the existing file structure and naming conventions.
 - By contributing to this repository, you agree to license your contributions under the same license as the repository itself.
 
-## Code of Conduct
-Please note that we have a [Code of Conduct](code_of_conduct.md) that we expect all contributors to follow. Be respectful, inclusive, and considerate when interacting with others in this community.
 
-## Contact
-
-If you have any questions or need assistance with your contributions, please don't hesitate to [contact us](https://github.com/Munsif-Raza-T/Artificial-Intelligence-and-Data-Science/issues) through GitHub issues. We're here to help you contribute effectively.
 
 ## License
 
